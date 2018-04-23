@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b993f017-4c1c-416e-b493-53ba52183df9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Trein.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/TreinMachinist.java" afterDir="false" />
-    </list>
+    <list default="true" id="b993f017-4c1c-416e-b493-53ba52183df9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -155,12 +151,12 @@
       <option name="presentableId" value="Default" />
       <updated>1524469590807</updated>
       <workItem from="1524469592236" duration="153000" />
-      <workItem from="1524469760393" duration="1240000" />
+      <workItem from="1524469760393" duration="1439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1393000" />
+    <option name="totallyTimeSpent" value="1592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1200" extended-state="0" />
