@@ -15,16 +15,16 @@ public class Trein {
     }
 
     public void instappen1steklas(Nameable nameable1_1, Nameable nameable1_2, Nameable nameable1_3) {
-        instappen(nameable1_1);
-        instappen(nameable1_2);
-        instappen(nameable1_3);
+        instappen1steklas(nameable1_1);
+        instappen1steklas(nameable1_2);
+        instappen1steklas(nameable1_3);
     }
 
     public void instappen2deklas(Nameable nameable2_1, Nameable nameable2_2, Nameable nameable2_3, Nameable nameable2_4) {
-        instappen(nameable2_1);
-        instappen(nameable2_2);
-        instappen(nameable2_3);
-        instappen(nameable2_4);
+        instappen2deklas(nameable2_1);
+        instappen2deklas(nameable2_2);
+        instappen2deklas(nameable2_3);
+        instappen2deklas(nameable2_4);
     }
 
     public void instappen1steklas(Nameable nameable) {
